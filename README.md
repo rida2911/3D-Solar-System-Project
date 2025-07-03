@@ -4,6 +4,6 @@ This project is an interactive 3D model of the solar system created with HTML, C
 
 ## Demo
 
- [View Project Live](https://solarbyridajahan.netlify.app)
+ [View Project](https://solarbyridajahan.netlify.app)
 
 
